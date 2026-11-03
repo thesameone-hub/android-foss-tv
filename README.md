@@ -18,6 +18,11 @@ The original repository URL has intentionally been removed so users are not dire
 
 ## Apps (56)
 
+<!-- This table is auto-generated. Do not edit -->
+
+<!-- end apps table -->
+
+
 The catalogue is also preserved in [`catalogue.yaml`](catalogue.yaml).
 
 | Category | App | Source |
