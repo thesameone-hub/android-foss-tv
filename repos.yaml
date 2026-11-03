@@ -1,0 +1,27 @@
+# Verified GitHub release APK imports.
+# Only add entries after checking the package ID and release asset filename.
+flicky:
+  git: "https://github.com/mlm-games/flicky"
+  author_name: "mlm-games"
+  summary: "A TV-friendly F-Droid client"
+  applications:
+    - filename: "flicky-*-universal.apk"
+      id: "app.flicky"
+      name: "Flicky"
+      categories:
+        - Internet
+      description: |
+        A TV-oriented F-Droid client designed for Android TV and wide-screen devices.
+
+smarttube:
+  git: "https://github.com/yuliskov/SmartTube"
+  author_name: "yuliskov"
+  summary: "A YouTube client for Android TV"
+  applications:
+    - filename: "SmartTube_stable_*_universal.apk"
+      id: "app.smarttube"
+      name: "SmartTube"
+      categories:
+        - Multimedia
+      description: |
+        An alternative YouTube client designed for Android TV devices.
