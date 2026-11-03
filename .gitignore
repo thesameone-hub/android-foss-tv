@@ -38,3 +38,7 @@ metascoop/metascoop
 config.py
 out.txt
 **.tmp
+
+# Local F-Droid signing material
+fdroid/keystore.p12
+fdroid/keystore-base64.txt
