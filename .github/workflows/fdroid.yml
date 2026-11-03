@@ -17,6 +17,7 @@ on:
     paths:
       - 'repos.yaml'
       - '.github/workflows/fdroid.yml'
+      - 'metascoop/**'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -117,8 +118,7 @@ jobs:
               exit "$exit_code"
               ;;
           esac
-        continue-on-error: true
-
+ 
       - name: Delete F-Droid server config
         run: |
           rm -f fdroid/config.yml
