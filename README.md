@@ -2,25 +2,23 @@
 
 A curated F-Droid repository of FOSS (Free and Open Source Software) apps for Android TV.
 
-[![F-Droid repo](https://img.shields.io/badge/F--Droid-Repo-blue?logo=f-droid)](https://github.com/Digitalito/foss-tv)
+[![GitHub](https://img.shields.io/badge/GitHub-Fork-black?logo=github)](https://github.com/thesameone-hub/android-foss-tv)
 
 ---
 
-## Add to F-Droid
+## F-Droid repository status
 
-1. Install the [F-Droid client app](https://f-droid.org/)
-2. Go to **Settings → Repositories → Add repository**
-3. Paste the URL below:
+**This fork is not yet published as an installable F-Droid repository.** Do not add a repository URL to F-Droid yet. The signed index, APK files, and signing fingerprint must be generated first. A valid install URL will be added here after the first successful GitHub Actions publish.
 
-```
-https://raw.githubusercontent.com/Digitalito/foss-tv/main/fdroid/repo?fingerprint=YOUR_FINGERPRINT_HERE
-```
+The original repository URL has intentionally been removed so users are not directed to the upstream owner's repository by mistake.
 
-> After first setup, run `fdroid update` or push to GitHub Actions to generate the signed repo index.
+> The 56 applications below are a discovery catalogue. They are not all configured for automatic APK import. The `repos.yaml` workflow input must contain verified GitHub release asset patterns and Android package IDs before an app can be published.
 
 ---
 
 ## Apps (56)
+
+The catalogue is also preserved in [`catalogue.yaml`](catalogue.yaml).
 
 | Category | App | Source |
 |---|---|---|
