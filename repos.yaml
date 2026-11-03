@@ -19,7 +19,7 @@ smarttube:
   summary: "A YouTube client for Android TV"
   applications:
     - filename: "SmartTube_stable_*_universal.apk"
-      id: "app.smarttube"
+      id: "org.smarttube.stable"
       name: "SmartTube"
       categories:
         - Multimedia
