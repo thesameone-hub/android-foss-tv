@@ -1,0 +1,60 @@
+# Android TV FOSS application catalogue
+# Discovery inventory only. This is NOT the metascoop import configuration.
+# Add an app to repos.yaml only after verifying its package ID and APK release asset.
+apps:
+  - { name: "Arc Launcher", category: "Launcher", git: "https://github.com/meddouribadis/arclauncher" }
+  - { name: "LeanbackLauncher", category: "Launcher", git: "https://github.com/tsynik/LeanbackLauncher" }
+  - { name: "LTvLauncher", category: "Launcher", git: "https://github.com/LeanBitLab/LtvLauncher" }
+  - { name: "LeanKey Keyboard", category: "Keyboard", git: "https://github.com/yuliskov/LeanKeyKeyboard" }
+  - { name: "Flicky", category: "App Store", git: "https://github.com/mlm-games/flicky" }
+  - { name: "TV Bro", category: "Web Browser", git: "https://github.com/truefedex/tv-bro" }
+  - { name: "DTVfree", category: "Web Browser", git: "https://github.com/InukaAsith/DTVfree" }
+  - { name: "Fermata", category: "Media Player", git: "https://github.com/AndreyPavlenko/Fermata" }
+  - { name: "Ghosten Player", category: "Media Player", git: "https://github.com/GhostenEditor/Ghosten-Player" }
+  - { name: "mpv for Android", category: "Media Player", git: "https://github.com/mpv-android/mpv-android" }
+  - { name: "Nova Video Player", category: "Media Player", git: "https://github.com/nova-video-player/aos-AVP" }
+  - { name: "SmartTube", category: "Streaming - YouTube", git: "https://github.com/yuliskov/smarttube" }
+  - { name: "Tubular", category: "Streaming - YouTube", git: "https://github.com/polymorphicshade/Tubular" }
+  - { name: "TizenTube Cobalt", category: "Streaming - YouTube", git: "https://github.com/reisxd/TizenTubeCobalt" }
+  - { name: "CloudStream", category: "Streaming - Movies", git: "https://github.com/recloudstream/cloudstream" }
+  - { name: "Flixclusive", category: "Streaming - Movies", git: "https://github.com/rhenwinch/Flixclusive" }
+  - { name: "Lumera", category: "Streaming - Movies", git: "https://github.com/LumeraD3v/Lumera" }
+  - { name: "NuvioTV", category: "Streaming - Movies", git: "https://github.com/tapframe/NuvioTV" }
+  - { name: "Streamflix Reborn", category: "Streaming - Movies", git: "https://github.com/streamflix-reborn/streamflix" }
+  - { name: "Digilog TV", category: "Streaming - Movies", git: "https://github.com/aldrinzigmundv/digilogtv" }
+  - { name: "ARVIO", category: "Streaming - Movies", git: "https://github.com/ProdigyV21/ARVIO" }
+  - { name: "Jellyfin for Android TV", category: "Streaming - Self-hosted", git: "https://github.com/jellyfin/jellyfin-androidtv" }
+  - { name: "Immich Android TV", category: "Streaming - Self-hosted", git: "https://github.com/giejay/Immich-Android-TV" }
+  - { name: "SmartTwitchTV", category: "Streaming - Twitch", git: "https://github.com/fgl27/SmartTwitchTV" }
+  - { name: "Moonlight", category: "Streaming - Gaming", git: "https://github.com/moonlight-stream/moonlight-android" }
+  - { name: "Artemis", category: "Streaming - Gaming", git: "https://github.com/ClassicOldSong/moonlight-android" }
+  - { name: "M3U", category: "Streaming - IPTV", git: "https://github.com/realOxy/M3UAndroid" }
+  - { name: "Amaze File Manager", category: "File Browser", git: "https://github.com/TeamAmaze/AmazeFileManager" }
+  - { name: "Fluffy", category: "File Browser", git: "https://github.com/mlm-games/Fluffy" }
+  - { name: "Material Files", category: "File Browser", git: "https://github.com/zhanghai/MaterialFiles" }
+  - { name: "Download Navi", category: "Download Manager", git: "https://github.com/TachibanaGeneralLaboratories/download-navi" }
+  - { name: "TorrServe", category: "Download Manager", git: "https://github.com/YouROK/TorrServe" }
+  - { name: "Debrify", category: "Download Manager", git: "https://github.com/varunsalian/debrify" }
+  - { name: "LocalSend", category: "Connectivity", git: "https://github.com/localsend/localsend" }
+  - { name: "LinkLoom TV", category: "Connectivity", git: "https://github.com/Yazan98/LinkLoomTv" }
+  - { name: "Aves Gallery", category: "Gallery", git: "https://github.com/deckerst/aves" }
+  - { name: "Aerial Views", category: "Screen Saver", git: "https://github.com/theothernt/AerialViews" }
+  - { name: "DNSNet", category: "DNS Proxy", git: "https://github.com/t895/DNSNet" }
+  - { name: "InviZible Pro", category: "DNS Proxy / Privacy", git: "https://github.com/Gedsh/InviZible" }
+  - { name: "OpenVPN for Android", category: "VPN", git: "https://github.com/schwabe/ics-openvpn" }
+  - { name: "Proton VPN", category: "VPN", git: "https://github.com/ProtonVPN/android-app" }
+  - { name: "Shadowsocks TV", category: "VPN", git: "https://github.com/shadowsocks/shadowsocks-android" }
+  - { name: "Tailscale", category: "VPN", git: "https://github.com/tailscale/tailscale-android" }
+  - { name: "Windscribe", category: "VPN", git: "https://github.com/Windscribe/Android-App" }
+  - { name: "Recording Webcam", category: "Capturing", git: "https://github.com/ChunhThanhDe/Recording-Webcam" }
+  - { name: "APKUpdater", category: "System Utilities", git: "https://github.com/rumboalla/apkupdater" }
+  - { name: "App Manager", category: "System Utilities", git: "https://github.com/MuntashirAkon/AppManager" }
+  - { name: "CPU Info", category: "System Utilities", git: "https://github.com/kamgurgul/cpu-info" }
+  - { name: "Key Mapper", category: "System Utilities", git: "https://github.com/keymapperorg/KeyMapper" }
+  - { name: "Launch-On-Boot", category: "System Utilities", git: "https://github.com/ITVlab/Launch-On-Boot" }
+  - { name: "MATVT", category: "System Utilities", git: "https://github.com/virresh/matvt" }
+  - { name: "Neo Backup", category: "System Utilities", git: "https://github.com/NeoApplications/Neo-Backup" }
+  - { name: "NetGuard", category: "System Utilities", git: "https://github.com/M66B/NetGuard" }
+  - { name: "SD Maid SE", category: "System Utilities", git: "https://github.com/d4rken-org/sdmaid-se" }
+  - { name: "Shizuku", category: "System Utilities", git: "https://github.com/RikkaApps/Shizuku" }
+  - { name: "WebDAV Provider", category: "System Utilities", git: "https://github.com/alexbakker/webdav-provider" }
