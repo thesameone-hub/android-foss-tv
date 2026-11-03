@@ -1,0 +1,338 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "My Repository"
+    },
+    "description": {
+      "en-US": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "2af73b6deb3f0cd754555b9fbf27c2f815efc84168a6dc080bfccca32d40e84e",
+        "size": 1000
+      }
+    },
+    "address": "https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo",
+    "timestamp": 1793729333000,
+    "categories": {
+      "Internet": {
+        "name": {
+          "en-US": "Internet"
+        }
+      },
+      "Multimedia": {
+        "name": {
+          "en-US": "Multimedia"
+        }
+      }
+    }
+  },
+  "packages": {
+    "app.flicky": {
+      "metadata": {
+        "added": 1793729272000,
+        "categories": [
+          "Internet"
+        ],
+        "lastUpdated": 1793729272000,
+        "sourceCode": "https://github.com/mlm-games/flicky",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/1.png",
+                "sha256": "8ac2deb0d58b7d4e5116f435623b02835ef1fa2efd2ca17a33527219531a7abe",
+                "size": 163498
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/10.png",
+                "sha256": "6255b4f4e35e946c2dbefe2bc00b15e73d81172d3a23da1b6439e7c3aa744653",
+                "size": 148897
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/11.png",
+                "sha256": "c2c05f8619aeb690b337ff1abe32825db77c1cbeda0d6da1b0bbd86eb632aa62",
+                "size": 176242
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/2.png",
+                "sha256": "9c1af49f11b8acb2941030cc3ee5c7bf784a0ec1347f8da70736ac4424e4e35a",
+                "size": 75705
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/3.png",
+                "sha256": "5a5d6a356c056cb781db1772d2ba7c03bbabbd1e9e573043f49073bceabb01d0",
+                "size": 166496
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/4.png",
+                "sha256": "7bb83ea0a539fadb3c07f750370c594d6a37e9b96bf62376723e1ff9ffdc68a4",
+                "size": 147821
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/5.png",
+                "sha256": "007f37a5e0f2ee3b2ce2cde42e38b4819ad9f977b8de34127a9bdd6e215c4ce1",
+                "size": 118669
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/6.png",
+                "sha256": "41d6a6c002f2bf8e61eebb000a42d69bdf27704b436280b8996109f87ed68ce1",
+                "size": 77537
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/7.png",
+                "sha256": "40fd33a092addf08ffb04f9272fdada819cd36c4252c9114aadf9fb70d1ac497",
+                "size": 106189
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/8.png",
+                "sha256": "8519ffbe2777320cbe4b4ef7f99cf39edf90f0a0e41d8047df1333547e335ff3",
+                "size": 113189
+              },
+              {
+                "name": "/app.flicky/en-US/phoneScreenshots/9.png",
+                "sha256": "7eb5cd2dd8b57bee14a1de23e74bed95c94a104aa13ac7138b63361d5072f87d",
+                "size": 147387
+              }
+            ]
+          }
+        },
+        "authorName": "mlm-games",
+        "name": {
+          "en-US": "Flicky"
+        },
+        "summary": {
+          "en-US": "A TV-friendly F-Droid client"
+        },
+        "description": {
+          "en-US": "A TV-oriented F-Droid client designed for Android TV and wide-screen devices.\n"
+        },
+        "preferredSigner": "4aed2f691df64a7b0fea25a6b8c80183c6dc520e049dac0178defa1d6472228f"
+      },
+      "versions": {
+        "adb4c192814bdd26970ee542c00a74f90083b2147a5c8a60333b8945ae08c940": {
+          "added": 1793729272000,
+          "file": {
+            "name": "/app.flicky_4.6.1.apk",
+            "sha256": "adb4c192814bdd26970ee542c00a74f90083b2147a5c8a60333b8945ae08c940",
+            "size": 4479817
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.6.1",
+            "versionCode": 1021,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 37
+            },
+            "signer": {
+              "sha256": [
+                "4aed2f691df64a7b0fea25a6b8c80183c6dc520e049dac0178defa1d6472228f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "com.rosan.dhizuku.permission.API"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "app.flicky.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.smarttube.stable": {
+      "metadata": {
+        "added": 1793729274000,
+        "categories": [
+          "Multimedia"
+        ],
+        "lastUpdated": 1793729274000,
+        "sourceCode": "https://github.com/yuliskov/SmartTube",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/org.smarttube.stable/en-US/phoneScreenshots/1.png",
+                "sha256": "ad596c569b9aac7cb4743f508dbe20914d58d6f349a6efed4e18c6c2b1895f0d",
+                "size": 1086437
+              },
+              {
+                "name": "/org.smarttube.stable/en-US/phoneScreenshots/2.png",
+                "sha256": "2c4eb7bc9f1034958a14a36adbea3643da5a4a28c81f1ad58a2cdb0cd688f4ec",
+                "size": 853465
+              },
+              {
+                "name": "/org.smarttube.stable/en-US/phoneScreenshots/3.png",
+                "sha256": "95e1a52cd7bb67f49b744d8eb01112890535844862adb4cfe75164a85d844641",
+                "size": 407925
+              }
+            ]
+          }
+        },
+        "authorName": "yuliskov",
+        "name": {
+          "en-US": "SmartTube"
+        },
+        "summary": {
+          "en-US": "A YouTube client for Android TV"
+        },
+        "description": {
+          "en-US": "An alternative YouTube client designed for Android TV devices.\n"
+        },
+        "preferredSigner": "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a"
+      },
+      "versions": {
+        "45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94": {
+          "added": 1793729274000,
+          "file": {
+            "name": "/org.smarttube.stable_32.68s.apk",
+            "sha256": "45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94",
+            "size": 35011082
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "32.68",
+            "versionCode": 2458,
+            "features": [
+              {
+                "name": "android.software.leanback"
+              },
+              {
+                "name": "android.hardware.usb.host"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 17,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "org.smarttube.stable.ACCESS_VIDEO_DATA"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.QUICKBOOT_POWERON"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.ACTION_MANAGE_OVERLAY_PERMISSION"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "org.smarttube.stable.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

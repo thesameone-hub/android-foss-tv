@@ -1,0 +1,5 @@
+- fix few transl. escapes
+- Fix language selection (#123)
+
+
+**Full Changelog**: https://github.com/mlm-games/flicky/compare/4.6.0...4.6.1

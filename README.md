@@ -19,7 +19,10 @@ The original repository URL has intentionally been removed so users are not dire
 ## Apps (56)
 
 <!-- This table is auto-generated. Do not edit -->
-
+| Icon | Name | Description | Version |
+| --- | --- | --- | --- |
+| <a href="https://github.com/mlm-games/flicky"><img src="fdroid/repo/app.flicky/en-US/icon.png" alt="Flicky icon" width="36px" height="36px"></a> | [**Flicky**](https://github.com/mlm-games/flicky) | A TV-friendly F-Droid client | 4.6.1 (1021) |
+| <a href="https://github.com/yuliskov/SmartTube"><img src="fdroid/repo/org.smarttube.stable/en-US/icon.png" alt="SmartTube icon" width="36px" height="36px"></a> | [**SmartTube**](https://github.com/yuliskov/SmartTube) | A YouTube client for Android TV | 32.68 (2458) |
 <!-- end apps table -->
 
 

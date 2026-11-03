@@ -1,0 +1,20 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "My First F-Droid Archive Demo"
+    },
+    "description": {
+      "en-US": "These are the apps that have been archived from the main repo."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "2af73b6deb3f0cd754555b9fbf27c2f815efc84168a6dc080bfccca32d40e84e",
+        "size": 1000
+      }
+    },
+    "address": "https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/archive",
+    "timestamp": 1793729323000
+  },
+  "packages": {}
+}

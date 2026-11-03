@@ -1,0 +1,12 @@
+AuthorName: mlm-games
+Categories:
+    - Internet
+CurrentVersion: 4.6.1
+CurrentVersionCode: 1021
+Description: |
+    A TV-oriented F-Droid client designed for Android TV and wide-screen devices.
+IssueTracker: ""
+Name: Flicky
+SourceCode: https://github.com/mlm-games/flicky
+Summary: A TV-friendly F-Droid client
+WebSite: ""
