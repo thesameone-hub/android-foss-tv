@@ -1,0 +1,15 @@
+- Playback error fixes
+- Auto-translated subtitles fix
+
+Downloader code: **28544** | [F-Droid release](https://f-droid.org/packages/app.smarttube.fdroid/)
+
+Thanks, @pixkk 
+			
+## 🛡️ VirusTotal Analysis
+
+| Build Variant | VirusTotal Status | Detailed Report |
+| :--- | :--- | :--- |
+| [SmartTube_stable_32.68_arm64-v8a.apk](https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_arm64-v8a.apk) | [![](https://badges.cssnr.com/vt/id/0a3d3f024eae66b8468f75fe85ab421169177f5ea1223a5d097d1dc9e1c84cf3?start=green&end=red&n=8&v=1792536333)](https://www.virustotal.com/gui/file/0a3d3f024eae66b8468f75fe85ab421169177f5ea1223a5d097d1dc9e1c84cf3/detection) | [View Report](https://www.virustotal.com/gui/file/0a3d3f024eae66b8468f75fe85ab421169177f5ea1223a5d097d1dc9e1c84cf3/detection) |
+| [SmartTube_stable_32.68_armeabi-v7a.apk](https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_armeabi-v7a.apk) | [![](https://badges.cssnr.com/vt/id/2130b23b17ed5cfd324baec81750a2be22059212b6ee17449f21cae2cb3a60d9?start=green&end=red&n=8&v=1792536333)](https://www.virustotal.com/gui/file/2130b23b17ed5cfd324baec81750a2be22059212b6ee17449f21cae2cb3a60d9/detection) | [View Report](https://www.virustotal.com/gui/file/2130b23b17ed5cfd324baec81750a2be22059212b6ee17449f21cae2cb3a60d9/detection) |
+| [SmartTube_stable_32.68_universal.apk](https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_universal.apk) | [![](https://badges.cssnr.com/vt/id/45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94?start=green&end=red&n=8&v=1792536333)](https://www.virustotal.com/gui/file/45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94/detection) | [View Report](https://www.virustotal.com/gui/file/45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94/detection) |
+| [SmartTube_stable_32.68_x86.apk](https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_x86.apk) | [![](https://badges.cssnr.com/vt/id/67d7d9b9e4dd629331e751e47f5e1e23dd0d8fa5e34c6d901ba0b97eaa002781?start=green&end=red&n=8&v=1792536334)](https://www.virustotal.com/gui/file/67d7d9b9e4dd629331e751e47f5e1e23dd0d8fa5e34c6d901ba0b97eaa002781/detection) | [View Report](https://www.virustotal.com/gui/file/67d7d9b9e4dd629331e751e47f5e1e23dd0d8fa5e34c6d901ba0b97eaa002781/detection) |

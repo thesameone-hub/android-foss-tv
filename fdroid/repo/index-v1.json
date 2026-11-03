@@ -1,0 +1,120 @@
+{
+  "repo": {
+    "address": "https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.",
+    "icon": "icon.png",
+    "name": "My Repository",
+    "timestamp": 1793729333000,
+    "version": 20002
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "added": 1793729272000,
+      "authorName": "mlm-games",
+      "categories": [
+        "Internet"
+      ],
+      "description": "A TV-oriented F-Droid client designed for Android TV and wide-screen devices.\n",
+      "lastUpdated": 1793729272000,
+      "license": "Unknown",
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "10.png",
+            "11.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png"
+          ],
+          "whatsNew": "- fix few transl. escapes\n- Fix language selection (#123)\n\n\n**Full Changelog**: https://github.com/mlm-games/flicky/compare/4.6.0...4.6.1"
+        }
+      },
+      "name": "Flicky",
+      "packageName": "app.flicky",
+      "sourceCode": "https://github.com/mlm-games/flicky",
+      "suggestedVersionCode": "1021",
+      "suggestedVersionName": "4.6.1",
+      "summary": "A TV-friendly F-Droid client"
+    },
+    {
+      "added": 1793729274000,
+      "authorName": "yuliskov",
+      "categories": [
+        "Multimedia"
+      ],
+      "description": "An alternative YouTube client designed for Android TV devices.\n",
+      "lastUpdated": 1793729274000,
+      "license": "Unknown",
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png"
+          ],
+          "whatsNew": "- Playback error fixes\n- Auto-translated subtitles fix\n\nDownloader code: **28544** | [F-Droid release](https://f-droid.org/packages/app.smarttube.fdroid/)\n\nThanks, @pixkk \n\t\t\t\n## 🛡️ VirusTotal Analysis\n\n| Build Variant | VirusTotal Status | Detailed Report |\n| :--- | :--- | :--- |\n| [SmartTube_stable_32.68_arm64-v8a.apk](https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_arm64-v8a.apk) | [![](https://badges.cssnr.com/vt/id/0a3d3f024eae66b8468f75fe85ab421169177f"
+        }
+      },
+      "name": "SmartTube",
+      "packageName": "org.smarttube.stable",
+      "sourceCode": "https://github.com/yuliskov/SmartTube",
+      "suggestedVersionCode": "2458",
+      "suggestedVersionName": "32.68",
+      "summary": "A YouTube client for Android TV"
+    }
+  ],
+  "packages": {
+    "app.flicky": [
+      {
+        "added": 1793729272000,
+        "apkName": "app.flicky_4.6.1.apk",
+        "hash": "adb4c192814bdd26970ee542c00a74f90083b2147a5c8a60333b8945ae08c940",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.flicky",
+        "sig": "409c839385a3d4cc940f84b06b80b186",
+        "signer": "4aed2f691df64a7b0fea25a6b8c80183c6dc520e049dac0178defa1d6472228f",
+        "size": 4479817,
+        "targetSdkVersion": 37,
+        "versionCode": 1021,
+        "versionName": "4.6.1"
+      }
+    ],
+    "org.smarttube.stable": [
+      {
+        "added": 1793729274000,
+        "apkName": "org.smarttube.stable_32.68s.apk",
+        "hash": "45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "org.smarttube.stable",
+        "sig": "36a1fe096c7a095d85d567aa9b5d7ae2",
+        "signer": "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a",
+        "size": 35011082,
+        "targetSdkVersion": 34,
+        "versionCode": 2458,
+        "versionName": "32.68"
+      }
+    ]
+  }
+}

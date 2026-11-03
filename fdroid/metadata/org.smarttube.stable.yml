@@ -1,0 +1,12 @@
+AuthorName: yuliskov
+Categories:
+    - Multimedia
+CurrentVersion: "32.68"
+CurrentVersionCode: 2458
+Description: |
+    An alternative YouTube client designed for Android TV devices.
+IssueTracker: ""
+Name: SmartTube
+SourceCode: https://github.com/yuliskov/SmartTube
+Summary: A YouTube client for Android TV
+WebSite: ""
