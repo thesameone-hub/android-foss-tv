@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo",
-    "timestamp": 1793729333000,
+    "timestamp": 1793763018000,
     "categories": {
       "Internet": {
         "name": {
@@ -35,7 +35,7 @@
         "categories": [
           "Internet"
         ],
-        "lastUpdated": 1793729272000,
+        "lastUpdated": 1793762996000,
         "sourceCode": "https://github.com/mlm-games/flicky",
         "screenshots": {
           "phone": {
@@ -111,6 +111,88 @@
         "preferredSigner": "4aed2f691df64a7b0fea25a6b8c80183c6dc520e049dac0178defa1d6472228f"
       },
       "versions": {
+        "1bd26fc53ad9f0bd8356b147f562284ec90d0215e080b187dd4eec04b1d86b8c": {
+          "added": 1793762996000,
+          "file": {
+            "name": "/app.flicky_4.6.2.apk",
+            "sha256": "1bd26fc53ad9f0bd8356b147f562284ec90d0215e080b187dd4eec04b1d86b8c",
+            "size": 4521623
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.6.2",
+            "versionCode": 1031,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 37
+            },
+            "signer": {
+              "sha256": [
+                "4aed2f691df64a7b0fea25a6b8c80183c6dc520e049dac0178defa1d6472228f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "com.rosan.dhizuku.permission.API"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "app.flicky.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              }
+            ]
+          }
+        },
         "adb4c192814bdd26970ee542c00a74f90083b2147a5c8a60333b8945ae08c940": {
           "added": 1793729272000,
           "file": {

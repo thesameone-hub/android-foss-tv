@@ -4,7 +4,7 @@
     "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.",
     "icon": "icon.png",
     "name": "My Repository",
-    "timestamp": 1793729333000,
+    "timestamp": 1793763018000,
     "version": 20002
   },
   "requests": {
@@ -19,7 +19,7 @@
         "Internet"
       ],
       "description": "A TV-oriented F-Droid client designed for Android TV and wide-screen devices.\n",
-      "lastUpdated": 1793729272000,
+      "lastUpdated": 1793762996000,
       "license": "Unknown",
       "localized": {
         "en-US": {
@@ -36,14 +36,14 @@
             "8.png",
             "9.png"
           ],
-          "whatsNew": "- fix few transl. escapes\n- Fix language selection (#123)\n\n\n**Full Changelog**: https://github.com/mlm-games/flicky/compare/4.6.0...4.6.1"
+          "whatsNew": "- Improve the SearchBar focus logic on TV by separating focus from editing (hack, android (non-tv) devices should work the same way)\n- toggle off last searched term by default\n- Allow selection for descriptions\n\n\n**Full Changelog**: https://github.com/mlm-games/flicky/compare/4.6.1...4.6.2"
         }
       },
       "name": "Flicky",
       "packageName": "app.flicky",
       "sourceCode": "https://github.com/mlm-games/flicky",
-      "suggestedVersionCode": "1021",
-      "suggestedVersionName": "4.6.1",
+      "suggestedVersionCode": "1031",
+      "suggestedVersionName": "4.6.2",
       "summary": "A TV-friendly F-Droid client"
     },
     {
@@ -75,6 +75,26 @@
   ],
   "packages": {
     "app.flicky": [
+      {
+        "added": 1793762996000,
+        "apkName": "app.flicky_4.6.2.apk",
+        "hash": "1bd26fc53ad9f0bd8356b147f562284ec90d0215e080b187dd4eec04b1d86b8c",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.flicky",
+        "sig": "409c839385a3d4cc940f84b06b80b186",
+        "signer": "4aed2f691df64a7b0fea25a6b8c80183c6dc520e049dac0178defa1d6472228f",
+        "size": 4521623,
+        "targetSdkVersion": 37,
+        "versionCode": 1031,
+        "versionName": "4.6.2"
+      },
       {
         "added": 1793729272000,
         "apkName": "app.flicky_4.6.1.apk",
