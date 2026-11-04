@@ -1,8 +1,8 @@
 AuthorName: mlm-games
 Categories:
     - Internet
-CurrentVersion: 4.6.1
-CurrentVersionCode: 1021
+CurrentVersion: 4.6.2
+CurrentVersionCode: 1031
 Description: |
     A TV-oriented F-Droid client designed for Android TV and wide-screen devices.
 IssueTracker: ""
