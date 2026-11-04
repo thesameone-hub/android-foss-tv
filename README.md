@@ -6,13 +6,25 @@ A curated F-Droid repository of FOSS (Free and Open Source Software) apps for An
 
 ---
 
-## F-Droid repository status
+## Install in F-Droid
 
-**This fork is not yet published as an installable F-Droid repository.** Do not add a repository URL to F-Droid yet. The signed index, APK files, and signing fingerprint must be generated first. A valid install URL will be added here after the first successful GitHub Actions publish.
+This repository is published and currently provides **2 apps**: Flicky and SmartTube.
 
-The original repository URL has intentionally been removed so users are not directed to the upstream owner's repository by mistake.
+1. Open F-Droid.
+2. Go to **Settings → Repositories → Add repository**.
+3. Paste this repository URL:
 
-> The 56 applications below are a discovery catalogue. They are not all configured for automatic APK import. The `repos.yaml` workflow input must contain verified GitHub release asset patterns and Android package IDs before an app can be published.
+```
+https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo?fingerprint=834CDABA521065F6FE4D2F50F8403CD89ADEE3A4034C44C377E043365E940B96
+```
+
+**Signing fingerprint (SHA-256):**
+
+```
+83 4C DA BA 52 10 65 F6 FE 4D 2F 50 F8 40 3C D8 9A DE E3 A4 03 4C 44 C3 77 E0 43 36 5E 94 0B 96
+```
+
+The 56-app catalogue below is a discovery list. Only apps configured and verified in `repos.yaml` are published; currently that is Flicky and SmartTube.
 
 ---
 
