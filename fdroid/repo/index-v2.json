@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo",
-    "timestamp": 1793935894000,
+    "timestamp": 1794022192000,
     "categories": {
       "Internet": {
         "name": {
@@ -283,7 +283,7 @@
         "categories": [
           "Multimedia"
         ],
-        "lastUpdated": 1793729274000,
+        "lastUpdated": 1794022172000,
         "sourceCode": "https://github.com/yuliskov/SmartTube",
         "screenshots": {
           "phone": {
@@ -319,6 +319,104 @@
         "preferredSigner": "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a"
       },
       "versions": {
+        "6d1819b88ed7b03a61fac0b58d3e14197fab9eb7d42905bd93913da58f1adc2b": {
+          "added": 1794022172000,
+          "file": {
+            "name": "/org.smarttube.stable_32.71s.apk",
+            "sha256": "6d1819b88ed7b03a61fac0b58d3e14197fab9eb7d42905bd93913da58f1adc2b",
+            "size": 35393792
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "32.71",
+            "versionCode": 2461,
+            "features": [
+              {
+                "name": "android.software.leanback"
+              },
+              {
+                "name": "android.hardware.usb.host"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 17,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "org.smarttube.stable.ACCESS_VIDEO_DATA"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.QUICKBOOT_POWERON"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.ACTION_MANAGE_OVERLAY_PERMISSION"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "org.smarttube.stable.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94": {
           "added": 1793729274000,
           "file": {
