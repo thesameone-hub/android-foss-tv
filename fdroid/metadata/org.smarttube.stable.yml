@@ -1,8 +1,8 @@
 AuthorName: yuliskov
 Categories:
     - Multimedia
-CurrentVersion: "32.68"
-CurrentVersionCode: 2458
+CurrentVersion: "32.71"
+CurrentVersionCode: 2461
 Description: |
     An alternative YouTube client designed for Android TV devices.
 IssueTracker: ""

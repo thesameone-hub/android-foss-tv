@@ -15,7 +15,7 @@ This repository is published and currently provides **2 apps**: Flicky and Smart
 3. Paste this repository URL:
 
 ```
-https://fdroid.link/#https://fdroid.link/#https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo?fingerprint=834CDABA521065F6FE4D2F50F8403CD89ADEE3A4034C44C377E043365E940B96
+https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo?fingerprint=834CDABA521065F6FE4D2F50F8403CD89ADEE3A4034C44C377E043365E940B96
 ```
 
 **Signing fingerprint (SHA-256):**
@@ -34,7 +34,7 @@ The 56-app catalogue below is a discovery list. Only apps configured and verifie
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href="https://github.com/mlm-games/flicky"><img src="fdroid/repo/app.flicky/en-US/icon.png" alt="Flicky icon" width="36px" height="36px"></a> | [**Flicky**](https://github.com/mlm-games/flicky) | A TV-friendly F-Droid client | 4.6.2 (1031) |
-| <a href="https://github.com/yuliskov/SmartTube"><img src="fdroid/repo/org.smarttube.stable/en-US/icon.png" alt="SmartTube icon" width="36px" height="36px"></a> | [**SmartTube**](https://github.com/yuliskov/SmartTube) | A YouTube client for Android TV | 32.68 (2458) |
+| <a href="https://github.com/yuliskov/SmartTube"><img src="fdroid/repo/org.smarttube.stable/en-US/icon.png" alt="SmartTube icon" width="36px" height="36px"></a> | [**SmartTube**](https://github.com/yuliskov/SmartTube) | A YouTube client for Android TV | 32.71 (2461) |
 <!-- end apps table -->
 
 

@@ -1,0 +1,12 @@
+- Hotfix: fixed live streams not working after the previous release
+
+Downloader code: **28544** |  [F-Droid](https://f-droid.org/packages/app.smarttube.fdroid/) | [Translation](https://jtbrinkmann.de/tools/android-strings.xml-translator.html)
+			
+## 🛡️ VirusTotal Analysis
+
+| Build Variant | VirusTotal Status | Detailed Report |
+| :--- | :--- | :--- |
+| [SmartTube_stable_32.71_arm64-v8a.apk](https://github.com/yuliskov/SmartTube/releases/download/32.71s/SmartTube_stable_32.71_arm64-v8a.apk) | [![](https://badges.cssnr.com/vt/id/6a799a129015e772d231440f4e3ad919f643164a0fdeb76ecb202bf3afb3db52?start=green&end=red&n=8&v=1793967120)](https://www.virustotal.com/gui/file/6a799a129015e772d231440f4e3ad919f643164a0fdeb76ecb202bf3afb3db52/detection) | [View Report](https://www.virustotal.com/gui/file/6a799a129015e772d231440f4e3ad919f643164a0fdeb76ecb202bf3afb3db52/detection) |
+| [SmartTube_stable_32.71_armeabi-v7a.apk](https://github.com/yuliskov/SmartTube/releases/download/32.71s/SmartTube_stable_32.71_armeabi-v7a.apk) | [![](https://badges.cssnr.com/vt/id/288e8caaa11417f6b64d2a7f906cead85c0b8a9bb5904753d7cb4f79d117d023?start=green&end=red&n=8&v=1793967120)](https://www.virustotal.com/gui/file/288e8caaa11417f6b64d2a7f906cead85c0b8a9bb5904753d7cb4f79d117d023/detection) | [View Report](https://www.virustotal.com/gui/file/288e8caaa11417f6b64d2a7f906cead85c0b8a9bb5904753d7cb4f79d117d023/detection) |
+| [SmartTube_stable_32.71_universal.apk](https://github.com/yuliskov/SmartTube/releases/download/32.71s/SmartTube_stable_32.71_universal.apk) | [![](https://badges.cssnr.com/vt/id/6d1819b88ed7b03a61fac0b58d3e14197fab9eb7d42905bd93913da58f1adc2b?start=green&end=red&n=8&v=1793967120)](https://www.virustotal.com/gui/file/6d1819b88ed7b03a61fac0b58d3e14197fab9eb7d42905bd93913da58f1adc2b/detection) | [View Report](https://www.virustotal.com/gui/file/6d1819b88ed7b03a61fac0b58d3e14197fab9eb7d42905bd93913da58f1adc2b/detection) |
+| [SmartTube_stable_32.71_x86.apk](https://github.com/yuliskov/SmartTube/releases/download/32.71s/SmartTube_stable_32.71_x86.apk) | [![](https://badges.cssnr.com/vt/id/16bccb10ab894a2201cab281bc4bcc838804c6d6a8065be591d1b29a0018178d?start=green&end=red&n=8&v=1793967120)](https://www.virustotal.com/gui/file/16bccb10ab894a2201cab281bc4bcc838804c6d6a8065be591d1b29a0018178d/detection) | [View Report](https://www.virustotal.com/gui/file/16bccb10ab894a2201cab281bc4bcc838804c6d6a8065be591d1b29a0018178d/detection) |
