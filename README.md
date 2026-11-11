@@ -15,7 +15,7 @@ This repository is published and currently provides **2 apps**: Flicky and Smart
 3. Paste this repository URL:
 
 ```
-https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo?fingerprint=834CDABA521065F6FE4D2F50F8403CD89ADEE3A4034C44C377E043365E940B96
+https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://fdroid.link/#https://raw.githubusercontent.com/thesameone-hub/android-foss-tv/main/fdroid/repo?fingerprint=834CDABA521065F6FE4D2F50F8403CD89ADEE3A4034C44C377E043365E940B96
 ```
 
 **Signing fingerprint (SHA-256):**
